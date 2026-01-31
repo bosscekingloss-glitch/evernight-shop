@@ -1,3 +1,4 @@
+import "./globals.css";
 export const metadata = {
   title: "EVERNIGHT SHOP",
   description: "Cyber Futuristic Anime Landing"
