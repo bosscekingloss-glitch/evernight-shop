@@ -4,4 +4,4 @@ export default function Footer() {
       © EVERNIGHT SHOP
     </footer>
   );
-  }
+}
